@@ -4,4 +4,12 @@
   <artifactId>ProvaIng</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>ProvaIng</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>Joda-Time</groupId>
+  		<artifactId>Joda-Time</artifactId>
+  		<version>2.10.13</version>
+  		<scope>test</scope>
+  	</dependency>
+  </dependencies>
 </project>
